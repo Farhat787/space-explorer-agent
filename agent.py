@@ -74,4 +74,4 @@ User Question: {question}
     )
 
     result = crew.kickoff()
-    return result
+    return result.raw

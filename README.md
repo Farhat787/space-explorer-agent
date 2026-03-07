@@ -40,7 +40,11 @@ Agents run sequentially using **CrewAI**.
 
 ## Demo
 
-![App Screenshot](screenshots/app_demo.png)
+![App Screenshot](screenshots/picture_of_the_day.png)
+![App Screenshot](screenshots/picture_description.png)
+![App Screenshot](screenshots/question_box.png)
+
+
 
 ---
 

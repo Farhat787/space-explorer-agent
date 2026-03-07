@@ -141,10 +141,9 @@ if question:
     with st.spinner("Consulting the cosmos... 🌠"):
 
         answer = ask_space_agent(
-            data.get("title", ""),
-            data.get("explanation", ""),
-            question
-        )
-
-        st.markdown("### 🧠 Answer")
-        st.write(answer)
+        data.get("title", ""),
+        data.get("explanation", ""),
+        question
+    )
+    st.markdown("### 🧠 Answer")
+    st.write(answer)
