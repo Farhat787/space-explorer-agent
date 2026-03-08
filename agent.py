@@ -1,6 +1,5 @@
 import requests
-from crewai import Agent, Task, Crew, Process
-from crewai.llm import LLM
+from crewai import Agent, Task, Crew, Process, llm
 
 # Initialize the Ollama LLM via the UNCW server
 llm = LLM(
