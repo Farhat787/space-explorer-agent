@@ -4,5 +4,5 @@ python-dotenv
 litellm
 crewai==0.28.8
 chromadb==0.4.24
-setuptools
+setuptools==69.5.1
 
