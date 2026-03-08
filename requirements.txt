@@ -4,4 +4,4 @@ python-dotenv
 litellm
 crewai==0.28.8
 chromadb==0.4.24
-pydantic==1.10.13
+
